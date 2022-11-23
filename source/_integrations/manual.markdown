@@ -137,7 +137,7 @@ In the configuration example below:
 alarm_control_panel:
   - platform: manual
     name: Home Alarm
-    code: "1234"
+    code: 1234
     arming_time: 30
     delay_time: 20
     trigger_time: 4
